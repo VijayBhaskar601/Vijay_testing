@@ -1,2 +1,8 @@
 vijay repo-1
 vijay repo-2
+git add *
+git push origin main
+git status
+git log
+git commit -m ' xyz'
+vijay repo-4
